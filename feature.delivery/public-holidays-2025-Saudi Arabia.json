@@ -1,0 +1,49 @@
+{
+  "product": "Saudi Arabia Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of Saudi Arabia",
+      "product": "Saudi Arabia Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the start of the new year"
+    },
+    {
+      "title": "Eid al-Fitr",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-14T12:00:00",
+      "endDate": "2025-05-14T12:00:00",
+      "source": "Government of Saudi Arabia",
+      "product": "Saudi Arabia Public Holidays 2025",
+      "style": "green",
+      "description": "Festival marking the end of Ramadan"
+    },
+    {
+      "title": "Saudi National Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-09-23T12:00:00",
+      "endDate": "2025-09-23T12:00:00",
+      "source": "Government of Saudi Arabia",
+      "product": "Saudi Arabia Public Holidays 2025",
+      "style": "lime",
+      "description": "Celebration of the unification of the Kingdom of Saudi Arabia"
+    },
+    {
+      "title": "Eid al-Adha",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-07-03T12:00:00",
+      "endDate": "2025-07-03T12:00:00",
+      "source": "Government of Saudi Arabia",
+      "product": "Saudi Arabia Public Holidays 2025",
+      "style": "teal",
+      "description": "Festival of Sacrifice"
+    }
+  ]
+}
